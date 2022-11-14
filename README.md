@@ -27,5 +27,5 @@ Developed with: JavaScript, HTML & CSS (check the repo <a href="https://github.c
 ### Adopta una huella
 
 <a href="https://adopta-una-huella.netlify.app/"><img src="./pictures/Huella.png" alt="Adopta una Huella" /></a><br />
-Es una web de adopción de mascotas en línea diseñada para aumentar las tasas de adopción de mascotas de los refugios proporcionando una experiencia fácil de usar y personalizada para ayudar a los adoptantes a encontrar la mascota adecuada. <br />
+Is an online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
