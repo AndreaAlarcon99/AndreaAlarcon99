@@ -16,6 +16,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-```
+## My projects
 
-```
+### Viaje a marte
+
+<a href="https://andreaalarcon99.github.io/juegoPlataformas/"><img src="./pictures/viajeamarte.png" alt="Viaje a Marte" /></a><br />
+A platform game where you have to capture 20 aliens in 2 minutes, be careful not to touch the meteorites!<br />
+Developed with: JavaScript, HTML & CSS (check the repo <a href="https://github.com/AndreaAlarcon99/juegoPlataformas">here</a>).
