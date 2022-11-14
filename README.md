@@ -24,8 +24,14 @@
 A platform game where you have to capture 20 aliens in 2 minutes, be careful not to touch the meteorites!<br />
 Developed with: JavaScript, HTML & CSS (check the repo <a href="https://github.com/AndreaAlarcon99/juegoPlataformas">here</a>).
 
+### Cocteleria
+
+<a href="https://cocteleria.herokuapp.com/"><img src="./pictures/cocteleria.png" alt="Cocteleria" /></a><br />
+A website where you can find all kinds of cocktails and share your best drink recipes.<br />
+Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https://github.com/AndreaAlarcon99/Proyecto-de-BackEnd/tree/main/cocteleria">here</a>).
+
 ### Adopta una huella
 
 <a href="https://adopta-una-huella.netlify.app/"><img src="./pictures/Huella.png" alt="Adopta una Huella" /></a><br />
-Is an online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet.<br />
+An online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
