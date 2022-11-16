@@ -23,17 +23,24 @@ Motivated by curiosity and creativity, I decided to start studying web developme
 ### Adopta una huella
 
 <a href="https://adopta-una-huella.netlify.app/"><img src="./pictures/Huella.png" alt="Adopta una Huella" /></a><br />
-An online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet.<br />
+An online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet. Full Stack app developed in a week at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
 
 ### Viaje a marte
 
 <a href="https://andreaalarcon99.github.io/juegoPlataformas/"><img src="./pictures/viajeamarte.png" alt="Viaje a Marte" /></a><br />
-A platform game where you have to capture 20 aliens in 2 minutes, be careful not to touch the meteorites!<br />
+My solo first project developed after two weeks learning how to code. Viaje a Marte is a platform game where you have to capture 20 aliens in 2 minutes, be careful not to touch the meteorites!<br />
 Developed with: JavaScript, HTML & CSS (check the repo <a href="https://github.com/AndreaAlarcon99/juegoPlataformas">here</a>).
 
 ### Cocteleria
 
 <a href="https://cocteleria.herokuapp.com/"><img src="./pictures/cocteleria.png" alt="Cocteleria" /></a><br />
-A website where you can find all kinds of cocktails and share your best drink recipes.<br />
+Is a social media application where you can find all kinds of cocktails from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https://github.com/AndreaAlarcon99/Proyecto-de-BackEnd/tree/main/cocteleria">here</a>).
+
+---
+
+Contact me!
+
+<a href="https://www.linkedin.com/in/andreaalarconvaldes/"><img align="left" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" alt="Leticia's LinkedIn" /></a>
+<a href="mailto:andreaalarcon5299@gmail.com"><img align="left" width="20px" src="https://simpleicons.now.sh/maildotru/495f7e" alt="Leticia's mail" /></a>
