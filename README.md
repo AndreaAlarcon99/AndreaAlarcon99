@@ -2,6 +2,8 @@
 
 ## About me
 
+Motivated by curiosity and creativity, I decided to start studying web development. A sector that brings me a lot and where I feel that I can also contribute. I want to continue learning and to be able to enhance my skills in programming and design.
+
 ## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,6 +20,12 @@
 
 ## My projects
 
+### Adopta una huella
+
+<a href="https://adopta-una-huella.netlify.app/"><img src="./pictures/Huella.png" alt="Adopta una Huella" /></a><br />
+An online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet.<br />
+Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
+
 ### Viaje a marte
 
 <a href="https://andreaalarcon99.github.io/juegoPlataformas/"><img src="./pictures/viajeamarte.png" alt="Viaje a Marte" /></a><br />
@@ -29,9 +37,3 @@ Developed with: JavaScript, HTML & CSS (check the repo <a href="https://github.c
 <a href="https://cocteleria.herokuapp.com/"><img src="./pictures/cocteleria.png" alt="Cocteleria" /></a><br />
 A website where you can find all kinds of cocktails and share your best drink recipes.<br />
 Developed with: JavaScript, Node, Express & Mongo (check the repo <a href="https://github.com/AndreaAlarcon99/Proyecto-de-BackEnd/tree/main/cocteleria">here</a>).
-
-### Adopta una huella
-
-<a href="https://adopta-una-huella.netlify.app/"><img src="./pictures/Huella.png" alt="Adopta una Huella" /></a><br />
-An online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet.<br />
-Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
