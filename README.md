@@ -22,7 +22,7 @@ Motivated by curiosity and creativity, I decided to start studying web developme
 
 ### Adopta una huella
 
-<a href="https://adopta-una-huella.netlify.app/"><img src="./pictures/Huella.png" alt="Adopta una Huella" /></a><br />
+<a href="https://adopta-huella.netlify.app/"><img src="./pictures/Huella.png" alt="Adopta una Huella" /></a><br />
 An online pet adoption web designed to increase pet adoption rates from shelters by providing an easy-to-use and personalized experience to help adopters find the right pet. Full Stack app developed in a week at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express, Mongo & React (check the repo <a href="https://github.com/AndreaAlarcon99/adopta-una-huella-FRONT">here</a>).
 
